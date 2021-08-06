@@ -1,8 +1,4 @@
-# You Only Look Once: Unified, Real-Time Object Detection
-
-## Contents
-
-* [Paper](Paper.pdf)
+# [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
 
 ## Summary 
 
@@ -31,7 +27,7 @@ At the test time, the conditional class probabilities and the individual box con
 
 #### Network Design
 
-![Layout](assets/Architecture.png)
+![Layout](assets/Architecture.jpg)
 
 Initial convolutional layers of the network extract features from the image while the fully connected layers predict the output probabilities and coordinates.
 
@@ -39,7 +35,9 @@ The network has 24 convolutional layers (1x1 reduction layers followed by 3x3 co
 
 The first 20 convolutional layers are pretrained on the ImageNet dataset and then is converted to perform detection by adding the remaining 4 convolutional layers and the 2 fully connected layers with randomly initialized weights.
 
+## Results
 
+![Results](assets/Results.jpg)
 
 ## Implementation
 
