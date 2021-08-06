@@ -21,7 +21,7 @@
 
 * Reinforcement Learning
     
-* [Asynchronous Methods for Deep Reinforcement Learning](./Papers/Asynchronous%20Methods%20for%20Deep%20Reinforcement%20Learning)
+    - [Asynchronous Methods for Deep Reinforcement Learning](./Papers/Asynchronous%20Methods%20for%20Deep%20Reinforcement%20Learning)
 
 ------
 
