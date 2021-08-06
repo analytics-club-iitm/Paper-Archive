@@ -1,8 +1,4 @@
-# Playing Atari With Deep Reinforcement Learning
-
-## Contents
-
-* [Paper](Paper.pdf)
+# [Playing Atari With Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf)
 
 ## Summary
 
