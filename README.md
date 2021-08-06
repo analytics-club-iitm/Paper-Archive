@@ -24,7 +24,8 @@
     
     - [Asynchronous Methods for Deep Reinforcement Learning](./Papers/Asynchronous%20Methods%20for%20Deep%20Reinforcement%20Learning/)
     - [DQN - Playing Atari with Deep Reinforcement Learning](./Papers/Deep%20Q-Learning/)
-    - [DRQN - Deep Recurrent Q-Learning for Partially Observable MDPs](./Papers/Deep%20Recurrent%20Q-Learning%20for%20Partially%20Observable%20MDPs)
+    - [DRQN - Deep Recurrent Q-Learning for Partially Observable MDPs](./Papers/Deep%20Recurrent%20Q-Learning%20for%20Partially%20Observable%20MDPs/)
+    - [PPO - Proximal Policy Optimization Algorithms](./Papers/Proximal%20Policy%20Optimization%20Algorithms/)
 
 ------
 
