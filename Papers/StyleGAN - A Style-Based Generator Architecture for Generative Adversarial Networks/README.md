@@ -1,9 +1,4 @@
-# A Style-Based Generator Architecture for Generative Adversarial Networks
-
-## Contents
-
-* [StyleGAN](Paper.pdf)
-* [StyleGAN2](Paper++.pdf)
+# [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
 
 ## Summary 
 
@@ -21,6 +16,8 @@ As previoused methods for estimating the degree of latent space disentanglement 
 for quantifying these aspects of the generator.
 
 ## Architecture
+
+![Layout](assets/Architecture.jpg)
 
 ### Style-based Generator
 
@@ -72,6 +69,10 @@ If the latent space interpolation pah is subdivided into linear segments, a tota
 ### Linear Separability 
 
 If a latent space is sufficiently disentangled, it should be possible to find direction vectors that consistently correspond to individual factors of variation. By measuring how well the latent-space points can be seperated into distinct sets quantifies another metric.
+
+## Results
+
+![Results](assets/Results.jpg)
 
 
 ## Implementation
