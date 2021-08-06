@@ -1,4 +1,4 @@
-# (Generative Image Inpainting with Contextual Attention)[https://arxiv.org/pdf/1801.07892.pdf]
+# [Generative Image Inpainting with Contextual Attention](https://arxiv.org/pdf/1801.07892.pdf)
 
 ## Summary 
 
