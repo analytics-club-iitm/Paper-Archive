@@ -1,8 +1,4 @@
-# Asynchronous Methods For Deep Reinforcement Learning
-
-## Contents
-
-* [Paper](Paper.pdf)
+# [Asynchronous Methods For Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
 
 ## Summary
 
