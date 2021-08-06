@@ -12,9 +12,16 @@
     - [Pix2Pix - Image-to-Image Translation with Conditional Adversarial Networks](./Papers/Pix2Pix%20-%20Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
     - [YOLO - You Only Look Once: Unified, Real-Time Object Detection](./Papers/YOLO%20-%20You%20Only%20Look%20Once:%20Unified,%20Real-Time%20Object%20Detection)
     - [Semantic Segmentation - Pyramid Scene Parsing Network](./Papers/PSPNet%20-%20Pyramid%20Scene%20Parsing%20Network)
+
+
 * Natural Language Processing
     - [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](./Papers/BERT%20-%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding)
     - [DrQA - Reading Wikipedia to Answer Open-Domain Questions](./Papers/DrQA%20-%20Reading%20Wikipedia%20to%20Answer%20Open-Domain%20Questions)
+
+
+* Reinforcement Learning
+    
+
 
 ------
 
