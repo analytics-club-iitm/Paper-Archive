@@ -11,7 +11,7 @@
     - [Image Inpainting - Generative Image Inpainting with Contextual Attention](./Papers/Image%20Inpainting%20-%20Generative%20Image%20Inpainting%20with%20Contextual%20Attention)
     - [Pix2Pix - Image-to-Image Translation with Conditional Adversarial Networks](./Papers/Pix2Pix%20-%20Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks)
     - [YOLO - You Only Look Once: Unified, Real-Time Object Detection](./Papers/YOLO%20-%20You%20Only%20Look%20Once:%20Unified,%20Real-Time%20Object%20Detection)
-    - [PSPNet - Pyramid Scene Parsing Network](./Papers/PSPNet%20-%20Pyramid%20Scene%20Parsing%20Network)
+    - [Semantic Segmentation - Pyramid Scene Parsing Network](./Papers/PSPNet%20-%20Pyramid%20Scene%20Parsing%20Network)
 
 ------
 
