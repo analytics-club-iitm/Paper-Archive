@@ -1,6 +1,7 @@
 # Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning
 
 The paper can be found [here](https://arxiv.org/pdf/1612.01887v2.pdf)
+
 My implementation of the paper can be found [here](https://github.com/abhipraay/NLP/blob/main/Image%20Captioning/using_adaptive_attention.ipynb)
 
 ## Introduction
