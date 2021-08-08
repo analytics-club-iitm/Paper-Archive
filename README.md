@@ -13,7 +13,7 @@
     - [Pix2Pix - Image-to-Image Translation with Conditional Adversarial Networks](./Papers/Pix2Pix%20-%20Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks/)
     - [YOLO - You Only Look Once: Unified, Real-Time Object Detection](./Papers/YOLO%20-%20You%20Only%20Look%20Once:%20Unified,%20Real-Time%20Object%20Detection)
     - [Semantic Segmentation - Pyramid Scene Parsing Network](./Papers/PSPNet%20-%20Pyramid%20Scene%20Parsing%20Network/)
-    - [DINO: Emerging Properties in Self-Supervised Vision Transformers](Papers/DINO:%20-Emerging%20-Properties%20-in%20-Self-Supervised%20-Vision%20-Transformers)
+    - [DINO: Emerging Properties in Self-Supervised Vision Transformers](Papers/DINO:%20Emerging%20Properties%20in%20Self-Supervised%20Vision%20Transformers)
 
 
 * Natural Language Processing
