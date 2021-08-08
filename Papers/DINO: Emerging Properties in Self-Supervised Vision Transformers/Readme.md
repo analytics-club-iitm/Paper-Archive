@@ -24,6 +24,10 @@ different views of the same image. These different views are generated using mul
   <img width="100%" alt="DINO illustration" src="https://github.com/wigglytuff-tu/dino/blob/main/.github/dino.gif">
 </div>
 
+<div align="center">
+  <img width="100%" alt="DINO illustration" src="">
+</div>
+
 
 <div align="center">
   <img width="100%" alt="Self-attention from a Vision Transformer with 8x8 patches trained with DINO" src="https://github.com/wigglytuff-tu/dino/blob/main/.github/attention_maps.png">
