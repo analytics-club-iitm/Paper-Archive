@@ -11,15 +11,16 @@ This will be a community-driven repository where people contribute by sharing th
 
     .
     ├── README.md               # Entry point to view all available papers in the archive. 
-    ├── <PAPER-1> (a folder) `  # Every paper must be inside a folder titled as the paper name
-        ├── assets              # Folder to contain images used in the README file to summarise the paper.
-        └── README.md           # README file containing the summary itself.
-    ├── <PAPER-2>
-        ├── assets
-        └── README.md
-    ├── <PAPER-3>
-        ├── assets
-        └── README.md
+    ├── Papers
+    ├──── <PAPER-1> (a folder) `  # Every paper must be inside a folder titled as the paper name
+        ├──── assets              # Folder to contain images used in the README file to summarise the paper.
+        └──── README.md           # README file containing the summary itself.
+    ├──── <PAPER-2>
+        ├──── assets
+        └──── README.md
+    ├──── <PAPER-3>
+        ├──── assets
+        └──── README.md
 
 ## Contents 
 
