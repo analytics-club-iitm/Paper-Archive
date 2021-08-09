@@ -18,7 +18,9 @@ The architecture is based on the transformer model introduced in this [paper](ht
 
 The input to the encoder is a set of image regions extracted from the input image with the help of RCNN's and ResNet. The encoder applies self attention on the features which helps us generate pair wise relationships between different regions in the image ( a man and a basketball, eggs and toasts etc). However for a task such as image captioning where we have to decribe what's going on in the input image, these pairwise relationships is not sufficient. The model needs to get the sense of player/ game from the man and basketball example and the sense for breakfast with the eggs and toasts example. To incorporate this relationship the authors introduce memory augmented attention. In their proposal, the set of keys and values used for self-attention is extended with additional “slots” which can encode a priori information. To stress that a priori information should not depend on the input set X, the additional keys and values are implemented as plain learnable vectors which can be directly updated via SGD. Formally, the operator is defined as:
 
-![pic1](assets/pic1.jpg)  where X is the image regiond and Mk and Mv are learnable matrices with nm rows, and [·, ·] indicates concatenation.
+![pic1](assets/pic1.jpg)  
+
+where X is the image regiond and Mk and Mv are learnable matrices with nm rows, and [·, ·] indicates concatenation.
 
 Intuitively, by adding learnable keys and values, through attention it will be possible to retrieve learned knowledge which is not already embedded in X. At the same time, this formulation leaves the set of queries unaltered.
 
@@ -33,7 +35,9 @@ The decoder is conditioned on both previously generated words and region encodin
 Given an input sequence of vectors Y , and outputs from all encoding layers X˜, the Meshed Attention operator connects Y to all elements in X˜ through gated cross-attentions. Instead of attending only the last encoding layer (as done in the transformer model), we perform a cross-attention with all encoding
 layers. These multi-level contributions are then summed together after being modulated. Formally, our meshed attention operator is defined as
 
-![pic2](assets/pic2.jpg)   where C(·, ·) stands for the encoder-decoder cross-attention, computed using queries from the decoder and keys and values from the encoder:
+![pic2](assets/pic2.jpg)   
+
+where C(·, ·) stands for the encoder-decoder cross-attention, computed using queries from the decoder and keys and values from the encoder:
 
 ![pic3](assets/pic3.jpg)
 
