@@ -33,6 +33,6 @@ So we use the KL Divergence score so that we can bring the q(z|y) as close to p(
   * IKEA Dataset
   * SUN Database
 
-**Pytorch Code** : https://github.com/rimchang/3DGAN-Pytorch
+**Pytorch Code** : [Code](https://github.com/rimchang/3DGAN-Pytorch)
 
-**Paper** : https://arxiv.org/pdf/1610.07584.pdf
+**Paper** : [Paper](https://arxiv.org/pdf/1610.07584.pdf)
