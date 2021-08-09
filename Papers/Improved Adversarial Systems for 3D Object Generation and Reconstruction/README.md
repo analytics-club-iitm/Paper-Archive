@@ -42,3 +42,14 @@ Generator’s loss Function:
 
 
 Where x is the target sample, xˆ is the generated sample (generated from an encoded image in the first equation, and a random latent vector in the second), μ and Σ are the means and variances produced by the encoder, and δ = 100
+
+### Dataset
+  * ShapeNet
+  * ModelNet
+  * IKEA Dataset
+
+### EndNote
+
+To know more about the 3D-R2N2 Model, check out the paper: [3D-R2N2](https://arxiv.org/pdf/1707.09557.pdf)
+
+You can check out the pytorch code at [Pytorch Code](https://github.com/EdwardSmith1884/3D-IWGAN)
