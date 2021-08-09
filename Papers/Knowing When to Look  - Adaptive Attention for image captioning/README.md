@@ -2,7 +2,7 @@
 
 The paper can be found [here](https://arxiv.org/pdf/1612.01887v2.pdf)
 
-My implementation of the paper can be found [here](https://github.com/abhipraay/NLP/blob/main/Image%20Captioning/using_adaptive_attention.ipynb)
+My implementation of the paper can be found [here](https://github.com/abhipraay/NLP/tree/main/Image%20Captioning/Adaptive%20attention%20for%20image%20captioning)
 
 ## Introduction
 
