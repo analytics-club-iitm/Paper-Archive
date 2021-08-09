@@ -1,6 +1,6 @@
 # Research Paper Archive
 
-PS. There are some issues with the math getting rendered in Github's dark mode. We're working on it, but until then we request you to switch to lite mode/open the summary in incognito(which defaults to light mode) to view the paper if you face any difficulty in viewing the math!!
+#### PS. There are some issues with the math getting rendered in Github's dark mode. We're working on it, but until then we request you to switch to lite mode/open the summary in incognito(which defaults to light mode) to view the paper if you face any difficulty in viewing the math!!
 
 This will be a community-driven repository where people contribute by sharing their thoughts on different research papers they have come across as a simple readme file. This would benefit the contributors by acting as a documentation for future reference and once this archive becomes decently big it would benefit the larger community as a whole. There is no restriction regarding what papers you can add onto this archive - can be old, new anything. Hope this repository gets some good contributions. Happy reading :)
 
