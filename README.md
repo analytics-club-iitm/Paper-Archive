@@ -41,6 +41,7 @@ This will be a community-driven repository where people contribute by sharing th
     - [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](./Papers/BERT%20-%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding)
     - [DrQA - Reading Wikipedia to Answer Open-Domain Questions](./Papers/DrQA%20-%20Reading%20Wikipedia%20to%20Answer%20Open-Domain%20Questions/)
     - [Knowing When To Look - Adaptive attention for image captioning](Papers/Knowing%20When%20to%20Look%20%20-%20Adaptive%20Attention%20for%20image%20captioning)
+    - [Meshed-Memory Transformer for Image Captioning](Papers/Meshed-Memory%20Transformer%20for%20Image%20Captioning)
 
 
 * Reinforcement Learning
