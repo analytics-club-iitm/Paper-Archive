@@ -50,6 +50,6 @@ Where x is the target sample, xˆ is the generated sample (generated from an enc
 
 ### EndNote
 
-To know more about the 3D-R2N2 Model, check out the paper: [3D-R2N2](https://arxiv.org/pdf/1707.09557.pdf)
+To know more about the Model, check out the paper: [Paper](https://arxiv.org/pdf/1707.09557.pdf)
 
 You can check out the pytorch code at [Pytorch Code](https://github.com/EdwardSmith1884/3D-IWGAN)
