@@ -49,6 +49,7 @@ This will be a community-driven repository where people contribute by sharing th
     - [Occupancy Networks_ Learning 3D Reconstruction in Function Space](./Papers/Occupancy%20Networks_%20Learning%203D%20Reconstruction%20in%20Function%20Space)
     - [Pix2Vox++_ Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images](./Papers/Pix2Vox%2B%2B_%20Multi-scale%20Context-aware%203D%20Object%20Reconstruction%20from%20Single%20and%20Multiple%20Images)
     - [Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction](Papers/Robust%20Attentional%20Aggregation%20of%20Deep%20Feature%20Sets%20for%20Multi-view%203D%20Reconstruction)
+    - [Per-Pixel classification is not all you need](Papers/Per-Pixel Classification is not all you need for Semantic Segmentation/Readme.md)
    
 * Natural Language Processing
     - [BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding](./Papers/BERT%20-%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding)
