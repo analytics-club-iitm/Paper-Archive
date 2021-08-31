@@ -50,4 +50,8 @@ having fewer parameters and faster inference time.
 This observation suggests that on datasets where class recognition is relatively easy to solve, the main
 challenge for mask classification-based approaches is pixel-level accuracy (i.e., mask quality).
 
+### Further Reading
+1.[Paper](http://arxiv.org/abs/2107.06278)<br>
+2.[Github Implementation](https://github.com/facebookresearch/MaskFormer)
+
 
