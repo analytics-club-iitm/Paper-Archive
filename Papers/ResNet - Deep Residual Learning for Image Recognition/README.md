@@ -7,12 +7,14 @@ As the number of layers in a deep neural network increases, training becomes inc
 Eventually, it led to the development of the ResNet, which allows deeper models having less susceptibility to these issues.
 
 ## Maths Involved
-(insert image here)
+![Residual block maths](https://github.com/dj-dg/Paper-Archive/blob/master/Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition/assets/Screen%20Shot%202021-12-23%20at%202.46.31%20PM.png "Residual block maths")
+<br> 
 Here, **x** and **y** are the input and output vectors of the given layer. <br>
 **F(x,{Wi})** represents the residual mapping to be learned. <br>
 Here, the dimensions of **F** and **x** should be the same so that they can be added; else, according conversions need to be done.
 <br>
-(insert image of building block)
+![Residual block structure](https://github.com/dj-dg/Paper-Archive/blob/master/Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition/assets/Screen%20Shot%202021-12-23%20at%203.23.24%20PM.png "Residual block structure")
+<br>
 
 ## Architecture Examples, and Results
 
@@ -20,10 +22,19 @@ The ResNet is not an architecture as such, but rather implements the residual mo
 <br>
 However, the authors of the paper did implement a few models using residual blocks and published their results for the same, evaluated on the ImageNet 2012 dataset that consists of 1000 classes.
 <br>
+![Normal network to Resnet](https://github.com/dj-dg/Paper-Archive/blob/master/Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition/assets/Screen%20Shot%202021-12-23%20at%203.23.40%20PM.png "Normal to ResNet")
+<br>
 They trained models of different numbers of layers (18, 34, 50, 101, 152 layers) and published the results in the original paper.
 
-(insert architecture example)
-(insert results of 18 and 34 layers)
+![Other Architectures](https://github.com/dj-dg/Paper-Archive/blob/master/Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition/assets/Screen%20Shot%202021-12-23%20at%203.23.59%20PM.png "Other architectures")
+<br>
+![Training Graph](https://github.com/dj-dg/Paper-Archive/blob/master/Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition/assets/Screen%20Shot%202021-12-23%20at%203.23.53%20PM.png "Training Graph")
+<br>
+
+![Results](https://github.com/dj-dg/Paper-Archive/blob/master/Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition/assets/Screen%20Shot%202021-12-23%20at%203.24.27%20PM.png "Results")
+<br>
+
+
 
 
 ## Further Reading
