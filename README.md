@@ -36,6 +36,7 @@ This will be a community-driven repository where people contribute by sharing th
     - [StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks](./Papers/StyleGAN%20-%20A%20Style-Based%20Generator%20Architecture%20for%20Generative%20Adversarial%20Networks/)
     - [Image Inpainting - Generative Image Inpainting with Contextual Attention](./Papers/Image%20Inpainting%20-%20Generative%20Image%20Inpainting%20with%20Contextual%20Attention)
     - [Pix2Pix - Image-to-Image Translation with Conditional Adversarial Networks](./Papers/Pix2Pix%20-%20Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks/)
+    - [ResNet - Deep Residual Learning for Image Recognition](./Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition)
     - [YOLO - You Only Look Once: Unified, Real-Time Object Detection](./Papers/YOLO%20-%20You%20Only%20Look%20Once:%20Unified,%20Real-Time%20Object%20Detection)
     - [Semantic Segmentation - Pyramid Scene Parsing Network](./Papers/PSPNet%20-%20Pyramid%20Scene%20Parsing%20Network/)
     - [DINO: Emerging Properties in Self-Supervised Vision Transformers](./Papers/DINO:%20Emerging%20Properties%20in%20Self-Supervised%20Vision%20Transformers)
