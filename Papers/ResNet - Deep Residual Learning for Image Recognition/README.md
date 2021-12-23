@@ -21,16 +21,19 @@ Here, the dimensions of **F** and **x** should be the same so that they can be a
 The ResNet is not an architecture as such, but rather implements the residual module as shown above.
 <br>
 However, the authors of the paper did implement a few models using residual blocks and published their results for the same, evaluated on the ImageNet 2012 dataset that consists of 1000 classes.
-<br>
+<br><br>
+The following image shows how one can implement residual blocks in a normal network, to retain the layers while increasing efficiency. <br>
 ![Normal network to Resnet](https://github.com/dj-dg/Paper-Archive/blob/master/Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition/assets/Screen%20Shot%202021-12-23%20at%203.23.40%20PM.png "Normal to ResNet")
-<br>
-They trained models of different numbers of layers (18, 34, 50, 101, 152 layers) and published the results in the original paper.
-
+<br><br>
+Here are some architectures using ResNets. <br>
 ![Other Architectures](https://github.com/dj-dg/Paper-Archive/blob/master/Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition/assets/Screen%20Shot%202021-12-23%20at%203.23.59%20PM.png "Other architectures")
 <br>
+They trained models of different numbers of layers (18, 34, 50, 101, 152 layers) and published the results in the original paper.
+This is a training curve of normal versus residual networks of same number of layers. <br> <br>
 ![Training Graph](https://github.com/dj-dg/Paper-Archive/blob/master/Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition/assets/Screen%20Shot%202021-12-23%20at%203.23.53%20PM.png "Training Graph")
 <br>
 
+Here is a comparison of the results obtained in the paper, from implementing different models. <br><br>
 ![Results](https://github.com/dj-dg/Paper-Archive/blob/master/Papers/ResNet%20-%20Deep%20Residual%20Learning%20for%20Image%20Recognition/assets/Screen%20Shot%202021-12-23%20at%203.24.27%20PM.png "Results")
 <br>
 
