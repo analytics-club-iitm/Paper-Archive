@@ -17,7 +17,9 @@ Let
 
 $$	\rho(\pi) =  \sum _{s}{d^\pi}(s)\sum_{a}{\pi}(s,a)\mathbb{R}^a_s $$
 
-where  $$ \mathbb{R}^a_s = E(r_{t+1}|s_t = s,a_t = a) , \forall s,s' \in S, a \in A $$ is the average expected reward 
+where  
+$$ \mathbb{R}^a_s = E(r_{t+1}|s_t = s,a_t = a) , \forall s,s' \in S, a \in A $$ 
+is the average expected reward 
 
 and 
  $$d^\pi(s) = lim_{t\to\infty}(Pr(s_t = s)|so,\pi)$$
@@ -31,7 +33,7 @@ $$ \frac{\partial \rho}{\partial \theta} = \sum_{s}d^{\pi}(s) \sum_{a}\frac{\par
  
 ## Policy gradient approximation :
 
-In the above equation , Q_{pi} is not normally and is approximated by a function approximator (neural network) 
+In the above equation , $Q_{pi}$ is not normally and is approximated by a function approximator (neural network) 
 
 
 Let
