@@ -13,7 +13,7 @@ An alternative approach to overcome the above difficulties is to make a function
 
 ## Policy gradient theorm :
 
-Let 
+Let the objective function (Average expected reward)
 
 $$	\rho(\pi) =  \sum _{s}{d^\pi}(s)\sum_{a}{\pi}(s,a)\mathbb{R}^a_s $$
 
