@@ -18,7 +18,8 @@ Let
 $$	\rho(\pi) =  \sum _{s}{d^\pi}(s)\sum_{a}{\pi}(s,a)\mathbb{R}^a_s $$
 
 where  
-$$ \mathbb{R}^a_s = E(r_{t+1}|s_t = s,a_t = a) , \forall s,s' \in S, a \in A $$ 
+![image](https://user-images.githubusercontent.com/95526559/230740742-c9294eed-6411-4ed5-a8b5-62f3ec4d1b70.png)
+
 is the average expected reward 
 
 and 
