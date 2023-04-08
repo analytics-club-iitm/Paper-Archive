@@ -1,8 +1,11 @@
 ## Summary 
 
-Initially , function approximators like neural networks were used in value based methods, using which an optimal value function is obtained(as function of states), from which the optimal policy is derived.
+Function approximation is essential to reinforcement learning, but
+the standard approach of approximating a value function and determining
+a policy from it has so far proven theoretically intractable.
 
-But the above method has limitations , firstly , the policy that is obtained is a deterministic policy whereas in most cases , the policy needed is a stochastic one.
+The limitations with the above methods are
+Firstly , the policy that is obtained is a deterministic policy whereas in most cases , the policy needed is a stochastic one.
 
 Secondly , an arbitary small change in the estimated value of an action can cause the action to be or not be selected.Such discontinous changes pose as an obstacle  for establishing convergence assurances.
 
@@ -28,7 +31,7 @@ $$ \frac{\partial \rho}{\partial \theta} = \sum_{s}d^{\pi}(s) \sum_{a}\frac{\par
  
 ## Policy gradient approximation :
 
-In the abpve equation , Q_{pi} is not normally and is approximated by a function approximator (neural network) 
+In the above equation , Q_{pi} is not normally and is approximated by a function approximator (neural network) 
 
 
 Let
